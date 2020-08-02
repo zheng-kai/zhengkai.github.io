@@ -1,5 +1,3 @@
- [TOC]
-
 # This is Home Page
 
 ## head 1
@@ -10,8 +8,8 @@
 
 ## head 2
 
-* [link1][https://zheng-kai.github.io/blog1]
-* [link2][]
+* [blog1](https://zheng-kai.github.io/blog1)
+* [baidu](https://www.baidu.com)
 
 ## head 3
 
