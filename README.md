@@ -1,4 +1,4 @@
-[TOC]
+ [TOC]
 
 # This is Home Page
 
@@ -13,7 +13,7 @@
 * [link1][blog1.md]
 * [link2][]
 
-##head 3
+## head 3
 
 
 
