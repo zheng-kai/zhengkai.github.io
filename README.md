@@ -1,4 +1,4 @@
-[TOC]
+ [TOC]
 
 # This is Home Page
 
@@ -13,7 +13,7 @@
 * [link1][https://zheng-kai.github.io/blog1]
 * [link2][]
 
-##head 3
+## head 3
 
 
 
